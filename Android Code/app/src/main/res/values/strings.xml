@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothMotorcycleTiltMeter</string>
+    <string name="to_meter">Tilt Meter</string>
+    <string name="set_zero">Set Zero</string>
+</resources>
